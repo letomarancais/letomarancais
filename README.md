@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @letomarancais
 - 👀 I’m interested in Bullet Hells
 - 🌱 I’m currently learning Rust and Bevy
-- 📫 How to reach me ... thomas59bric@gmail.com
+- I’m also following a course on Informatics 101
 
 <!---
 letomarancais/letomarancais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
